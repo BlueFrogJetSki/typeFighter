@@ -12,3 +12,4 @@
 /home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.pdb
 /home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.genruntimeconfig.cache
 /home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/ref/typeFighter.dll
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.sourcelink.json

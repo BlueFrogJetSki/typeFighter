@@ -93,12 +93,12 @@ namespace typeFighter
             Console.WriteLine("Thank you for playing \n");
             Console.WriteLine($"You total score is {score}/{maxTurns}\n");
 
-            Console.WriteLine("Words attempted:\n");
+            Console.WriteLine("Attempted:\n");
             foreach (string word in wordsSeen)
             {
-                Console.Write($"{word}, ");
+                Console.Write($"{word}\n");
             }
-            Console.WriteLine("\n");
+
         }
         private List<string> GetWordsFromFile(string path)
 

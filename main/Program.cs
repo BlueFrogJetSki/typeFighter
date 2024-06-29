@@ -6,6 +6,9 @@
         {
             bool running = true;
             int maxTurns;
+            string textFolderPath = "./texts";
+            string textFilePath = textFolderPath + "/words.txt";
+
 
             while (running)
             {
@@ -36,7 +39,7 @@
                     }
                 };
 
-                Game game = new Game(playerName, maxTurns, "./quotes.txt");
+                Game game = new Game(playerName, maxTurns, textFilePath);
                 game.Play();
 
 

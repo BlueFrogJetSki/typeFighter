@@ -102,3 +102,4 @@
 /home/mulderliu/C#/learningCSharp/typeFighter/typeFighterTests/obj/Debug/net8.0/typeFighterTests.pdb
 /home/mulderliu/C#/learningCSharp/typeFighter/typeFighterTests/obj/Debug/net8.0/typeFighterTests.genruntimeconfig.cache
 /home/mulderliu/C#/learningCSharp/typeFighter/typeFighterTests/obj/Debug/net8.0/ref/typeFighterTests.dll
+/home/mulderliu/C#/learningCSharp/typeFighter/typeFighterTests/obj/Debug/net8.0/typeFighterTests.sourcelink.json

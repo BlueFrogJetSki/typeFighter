@@ -152,9 +152,9 @@ namespace typeFighter
         public void printScoreBoard()
         {
             Console.WriteLine("--ScoreBoard--\n");
-            Console.WriteLine("--Top 10 Records--\n");
+            Console.WriteLine("--Top 5 Records--\n");
 
-            for (int i = 0; i < records.Count() && i < 10; i++)
+            for (int i = 0; i < records.Count() && i < 5; i++)
             {
                 Console.WriteLine($"Player:{records[i].name} - Score:{records[i].score} - Time:{records[i].time}\n");
             }
