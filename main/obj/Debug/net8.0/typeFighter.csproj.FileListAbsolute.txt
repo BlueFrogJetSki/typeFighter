@@ -1,0 +1,14 @@
+/home/mulderliu/C#/learningCSharp/typeFighter/main/bin/Debug/net8.0/typeFighter
+/home/mulderliu/C#/learningCSharp/typeFighter/main/bin/Debug/net8.0/typeFighter.deps.json
+/home/mulderliu/C#/learningCSharp/typeFighter/main/bin/Debug/net8.0/typeFighter.runtimeconfig.json
+/home/mulderliu/C#/learningCSharp/typeFighter/main/bin/Debug/net8.0/typeFighter.dll
+/home/mulderliu/C#/learningCSharp/typeFighter/main/bin/Debug/net8.0/typeFighter.pdb
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.GeneratedMSBuildEditorConfig.editorconfig
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.AssemblyInfoInputs.cache
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.AssemblyInfo.cs
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.csproj.CoreCompileInputs.cache
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.dll
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/refint/typeFighter.dll
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.pdb
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/typeFighter.genruntimeconfig.cache
+/home/mulderliu/C#/learningCSharp/typeFighter/main/obj/Debug/net8.0/ref/typeFighter.dll
